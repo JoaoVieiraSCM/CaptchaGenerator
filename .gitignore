@@ -11,8 +11,9 @@ __pycache__/
 *.so
 .Python
 
-# Generated captcha images
+# Generated captcha images (except example)
 captcha_data/images/*.png
+!captcha_data/images/bkp7zh.png
 
 # IDEs
 .vscode/

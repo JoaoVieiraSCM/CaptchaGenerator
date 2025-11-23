@@ -16,7 +16,9 @@ This experience was incredibly rewarding and quite different from conventional p
 
 Here's an example of a generated CAPTCHA:
 
-![Example CAPTCHA](captcha_data/images/bkp7zh.png)
+<p align="center">
+  <img src="captcha_data/images/bkp7zh.png" alt="Example CAPTCHA" width="600"/>
+</p>
 
 The generator creates images with:
 - 6-character alphanumeric text (customizable)
