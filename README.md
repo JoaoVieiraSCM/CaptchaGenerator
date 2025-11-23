@@ -17,7 +17,7 @@ This experience was incredibly rewarding and quite different from conventional p
 Here's an example of a generated CAPTCHA:
 
 <p align="center">
-  <img src="./captcha_data/images/bkp7zh.png" alt="Example CAPTCHA" width="600"/>
+  <img src="./captcha_data/images/dvg80k.png" alt="Example CAPTCHA" width="600"/>
 </p>
 
 The generator creates images with:

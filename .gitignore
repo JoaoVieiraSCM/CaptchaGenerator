@@ -13,7 +13,7 @@ __pycache__/
 
 # Generated captcha images (except example)
 captcha_data/images/*.png
-!captcha_data/images/bkp7zh.png
+!captcha_data/images/dvg80k.png
 
 # IDEs
 .vscode/
