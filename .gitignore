@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Generated captcha images
+captcha_data/images/*.png
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
